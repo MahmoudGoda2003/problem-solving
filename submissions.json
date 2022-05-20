@@ -1,4 +1,21 @@
 {
+  "CF157757405": {
+    "contest_id": 4,
+    "language": "Java 11",
+    "path": "codeforces\\4\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Watermelon",
+    "problem_url": "https://codeforces.com/contest/4/problem/A",
+    "submission_id": "CF157757405",
+    "submission_url": "https://codeforces.com/contest/4/submission/157757405",
+    "tags": [
+      "brute force",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/20/2022 04:56"
+  },
   "CF157924010": {
     "contest_id": 231,
     "language": "Java 11",
