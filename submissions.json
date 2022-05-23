@@ -1,4 +1,20 @@
 {
+  "CF158152941": {
+    "contest_id": 266,
+    "language": "Java 11",
+    "path": "codeforces\\266\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Stones on the Table",
+    "problem_url": "https://codeforces.com/contest/266/problem/A",
+    "submission_id": "CF158152941",
+    "submission_url": "https://codeforces.com/contest/266/submission/158152941",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/23/2022 17:28"
+  },
   "CF158328584": {
     "contest_id": 791,
     "language": "Java 11",
