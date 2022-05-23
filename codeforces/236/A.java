@@ -11,25 +11,25 @@ public class Main
 {
 	public static void main(String[] args) {
 		Scanner scan=new Scanner(System.in);
-		String str=scan.nextLine();int x=0;
-	     for(int i=0;i<str.length();i++){
-	         boolean flag=true;
-	         for(int j=i+1;j<str.length();j++){
-	             if(str.charAt(i)==str.charAt(j)){
-	                 flag=false;
-	             }
-	         }
-	         if(flag){
-	             x++;
-	         }
-	     }
+		String str=scan.nextLine();
+		char[] chars = str.toCharArray();
+Set<Character> charSet = new LinkedHashSet<Character>();
+for (char c : chars) {
+    charSet.add(c);
+}
+
+StringBuilder sb = new StringBuilder();
+for (Character character : charSet) {
+    sb.append(character);
+}
+
 		
 		
 		
 		
 		
 		
-		if(x%2==0){
+		if(sb.toString().length()%2==0){
 		    System.out.print("CHAT WITH HER!");
 		    
 		}else{
