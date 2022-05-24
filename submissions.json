@@ -1,4 +1,21 @@
 {
+  "CF158331879": {
+    "contest_id": 486,
+    "language": "Java 11",
+    "path": "codeforces\\486\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Calculating Function",
+    "problem_url": "https://codeforces.com/contest/486/problem/A",
+    "submission_id": "CF158331879",
+    "submission_url": "https://codeforces.com/contest/486/submission/158331879",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/24/2022 22:19"
+  },
   "CF158472777": {
     "contest_id": 977,
     "language": "Java 11",
