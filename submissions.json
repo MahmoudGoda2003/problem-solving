@@ -1,4 +1,21 @@
 {
+  "CF158330562": {
+    "contest_id": 59,
+    "language": "Java 11",
+    "path": "codeforces\\59\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Word",
+    "problem_url": "https://codeforces.com/contest/59/problem/A",
+    "submission_id": "CF158330562",
+    "submission_url": "https://codeforces.com/contest/59/submission/158330562",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/24/2022 21:58"
+  },
   "CF158331879": {
     "contest_id": 486,
     "language": "Java 11",
