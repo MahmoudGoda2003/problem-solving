@@ -1,4 +1,22 @@
 {
+  "CF158329149": {
+    "contest_id": 546,
+    "language": "Java 11",
+    "path": "codeforces\\546\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Soldier and Bananas",
+    "problem_url": "https://codeforces.com/contest/546/problem/A",
+    "submission_id": "CF158329149",
+    "submission_url": "https://codeforces.com/contest/546/submission/158329149",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/24/2022 21:36"
+  },
   "CF158329919": {
     "contest_id": 617,
     "language": "Java 11",
