@@ -1,4 +1,20 @@
 {
+  "CF158472777": {
+    "contest_id": 977,
+    "language": "Java 11",
+    "path": "codeforces\\977\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Wrong Subtraction",
+    "problem_url": "https://codeforces.com/contest/977/problem/A",
+    "submission_id": "CF158472777",
+    "submission_url": "https://codeforces.com/contest/977/submission/158472777",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/26/2022 00:02"
+  },
   "CF158473338": {
     "contest_id": 116,
     "language": "Java 11",
