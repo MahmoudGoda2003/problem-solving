@@ -1,4 +1,21 @@
 {
+  "CF158570530": {
+    "contest_id": 41,
+    "language": "Java 11",
+    "path": "codeforces\\41\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Translation",
+    "problem_url": "https://codeforces.com/contest/41/problem/A",
+    "submission_id": "CF158570530",
+    "submission_url": "https://codeforces.com/contest/41/submission/158570530",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "May/27/2022 02:36"
+  },
   "CF158572705": {
     "contest_id": 734,
     "language": "Java 11",
