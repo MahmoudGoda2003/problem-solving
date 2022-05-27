@@ -1,4 +1,20 @@
 {
+  "CF158573518": {
+    "contest_id": 344,
+    "language": "Java 11",
+    "path": "codeforces\\344\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Magnets",
+    "problem_url": "https://codeforces.com/contest/344/problem/A",
+    "submission_id": "CF158573518",
+    "submission_url": "https://codeforces.com/contest/344/submission/158573518",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "May/27/2022 04:45"
+  },
   "CF158643052": {
     "contest_id": 467,
     "language": "Java 11",
