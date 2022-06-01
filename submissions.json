@@ -452,6 +452,22 @@
     ],
     "timestamp": "May/27/2022 23:43"
   },
+  "CF159201467": {
+    "contest_id": 271,
+    "language": "Java 11",
+    "path": "codeforces\\271\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Beautiful Year",
+    "problem_url": "https://codeforces.com/contest/271/problem/A",
+    "submission_id": "CF159201467",
+    "submission_url": "https://codeforces.com/contest/271/submission/159201467",
+    "tags": [
+      "brute force",
+      "*800"
+    ],
+    "timestamp": "Jun/02/2022 01:13"
+  },
   "CF159254506": {
     "contest_id": 228,
     "language": "Java 11",
