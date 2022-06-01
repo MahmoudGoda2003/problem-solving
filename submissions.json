@@ -452,6 +452,22 @@
     ],
     "timestamp": "May/27/2022 23:43"
   },
+  "CF159200503": {
+    "contest_id": 61,
+    "language": "Java 11",
+    "path": "codeforces\\61\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Ultra-Fast Mathematician",
+    "problem_url": "https://codeforces.com/contest/61/problem/A",
+    "submission_id": "CF159200503",
+    "submission_url": "https://codeforces.com/contest/61/submission/159200503",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/02/2022 00:44"
+  },
   "CF159200886": {
     "contest_id": 705,
     "language": "Java 11",
