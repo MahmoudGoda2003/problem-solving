@@ -452,6 +452,23 @@
     ],
     "timestamp": "May/27/2022 23:43"
   },
+  "CF159256114": {
+    "contest_id": 469,
+    "language": "Java 11",
+    "path": "codeforces\\469\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "I Wanna Be the Guy",
+    "problem_url": "https://codeforces.com/contest/469/problem/A",
+    "submission_id": "CF159256114",
+    "submission_url": "https://codeforces.com/contest/469/submission/159256114",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jun/02/2022 16:36"
+  },
   "CF160087448": {
     "contest_id": 148,
     "language": "Java 11",
