@@ -1,4 +1,21 @@
 {
+  "CF160969923": {
+    "contest_id": 785,
+    "language": "Java 11",
+    "path": "codeforces\\785\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Anton and Polyhedrons",
+    "problem_url": "https://codeforces.com/contest/785/problem/A",
+    "submission_id": "CF160969923",
+    "submission_url": "https://codeforces.com/contest/785/submission/160969923",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/17/2022 17:37"
+  },
   "CF161343858": {
     "contest_id": 141,
     "language": "Java 11",
