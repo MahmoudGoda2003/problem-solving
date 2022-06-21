@@ -1,4 +1,21 @@
 {
+  "CF161407655": {
+    "contest_id": 581,
+    "language": "Java 11",
+    "path": "codeforces\\581\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Vasya the Hipster",
+    "problem_url": "https://codeforces.com/contest/581/problem/A",
+    "submission_id": "CF161407655",
+    "submission_url": "https://codeforces.com/contest/581/submission/161407655",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jun/21/2022 18:44"
+  },
   "CF162491663": {
     "contest_id": 732,
     "language": "Java 11",
