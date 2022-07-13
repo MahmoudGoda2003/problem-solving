@@ -1,4 +1,20 @@
 {
+  "CF164031618": {
+    "contest_id": 1474,
+    "language": "GNU C++14",
+    "path": "codeforces\\1474\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzle From the Future",
+    "problem_url": "https://codeforces.com/contest/1474/problem/A",
+    "submission_id": "CF164031618",
+    "submission_url": "https://codeforces.com/contest/1474/submission/164031618",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jul/13/2022 15:25"
+  },
   "CF164031764": {
     "contest_id": 1352,
     "language": "Java 11",
