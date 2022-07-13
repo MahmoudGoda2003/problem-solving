@@ -1,4 +1,21 @@
 {
+  "CF164075994": {
+    "contest_id": 1367,
+    "language": "Java 11",
+    "path": "codeforces\\1367\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Short Substrings",
+    "problem_url": "https://codeforces.com/contest/1367/problem/A",
+    "submission_id": "CF164075994",
+    "submission_url": "https://codeforces.com/contest/1367/submission/164075994",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jul/14/2022 00:20"
+  },
   "CF164078011": {
     "contest_id": 432,
     "language": "Java 11",
