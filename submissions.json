@@ -1,4 +1,21 @@
 {
+  "CF164080117": {
+    "contest_id": 758,
+    "language": "Java 11",
+    "path": "codeforces\\758\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Holiday Of Equality",
+    "problem_url": "https://codeforces.com/contest/758/problem/A",
+    "submission_id": "CF164080117",
+    "submission_url": "https://codeforces.com/contest/758/submission/164080117",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/14/2022 02:08"
+  },
   "CF164194449": {
     "contest_id": 1343,
     "language": "GNU C++14",
