@@ -1,4 +1,21 @@
 {
+  "CF164049612": {
+    "contest_id": 1352,
+    "language": "Java 11",
+    "path": "codeforces\\1352\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Same Parity Summands",
+    "problem_url": "https://codeforces.com/contest/1352/problem/B",
+    "submission_id": "CF164049612",
+    "submission_url": "https://codeforces.com/contest/1352/submission/164049612",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jul/13/2022 18:14"
+  },
   "CF164063564": {
     "contest_id": 1352,
     "language": "Java 11",
