@@ -1,4 +1,22 @@
 {
+  "CF164078011": {
+    "contest_id": 432,
+    "language": "Java 11",
+    "path": "codeforces\\432\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Choosing Teams",
+    "problem_url": "https://codeforces.com/contest/432/problem/A",
+    "submission_id": "CF164078011",
+    "submission_url": "https://codeforces.com/contest/432/submission/164078011",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jul/14/2022 01:07"
+  },
   "CF164080117": {
     "contest_id": 758,
     "language": "Java 11",
