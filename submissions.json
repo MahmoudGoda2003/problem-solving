@@ -1,4 +1,22 @@
 {
+  "CF164033720": {
+    "contest_id": 723,
+    "language": "Java 11",
+    "path": "codeforces\\723\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "The New Year: Meeting Friends",
+    "problem_url": "https://codeforces.com/contest/723/problem/A",
+    "submission_id": "CF164033720",
+    "submission_url": "https://codeforces.com/contest/723/submission/164033720",
+    "tags": [
+      "implementation",
+      "math",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Jul/13/2022 15:43"
+  },
   "CF164049612": {
     "contest_id": 1352,
     "language": "Java 11",
