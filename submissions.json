@@ -1,4 +1,21 @@
 {
+  "CF164194449": {
+    "contest_id": 1343,
+    "language": "GNU C++14",
+    "path": "codeforces\\1343\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Balanced Array",
+    "problem_url": "https://codeforces.com/contest/1343/problem/B",
+    "submission_id": "CF164194449",
+    "submission_url": "https://codeforces.com/contest/1343/submission/164194449",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/15/2022 01:25"
+  },
   "CF165302511": {
     "contest_id": 1352,
     "language": "Java 11",
