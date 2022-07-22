@@ -1,4 +1,20 @@
 {
+  "CF165302511": {
+    "contest_id": 1352,
+    "language": "Java 11",
+    "path": "codeforces\\1352\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Alice, Bob and Candies",
+    "problem_url": "https://codeforces.com/contest/1352/problem/D",
+    "submission_id": "CF165302511",
+    "submission_url": "https://codeforces.com/contest/1352/submission/165302511",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Jul/22/2022 14:39"
+  },
   "CF165499451": {
     "contest_id": 1703,
     "language": "GNU C++20 (64)",
