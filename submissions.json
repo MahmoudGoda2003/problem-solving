@@ -1,4 +1,20 @@
 {
+  "CF165624357": {
+    "contest_id": 1374,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1374\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Required Remainder",
+    "problem_url": "https://codeforces.com/contest/1374/problem/A",
+    "submission_id": "CF165624357",
+    "submission_url": "https://codeforces.com/contest/1374/submission/165624357",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/25/2022 06:27"
+  },
   "CF165716252": {
     "contest_id": 1702,
     "language": "GNU C++20 (64)",
