@@ -478,6 +478,22 @@
     ],
     "timestamp": "Jul/29/2022 03:59"
   },
+  "CF166302103": {
+    "contest_id": 920,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\920\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tea Queue",
+    "problem_url": "https://codeforces.com/contest/920/problem/B",
+    "submission_id": "CF166302103",
+    "submission_url": "https://codeforces.com/contest/920/submission/166302103",
+    "tags": [
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Jul/31/2022 06:43"
+  },
   "CF166498432": {
     "contest_id": 1,
     "language": "GNU C++20 (64)",
