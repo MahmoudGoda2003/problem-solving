@@ -478,6 +478,24 @@
     ],
     "timestamp": "Jul/29/2022 03:59"
   },
+  "CF167044168": {
+    "contest_id": 702,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\702\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Cellular Network",
+    "problem_url": "https://codeforces.com/contest/702/problem/C",
+    "submission_id": "CF167044168",
+    "submission_url": "https://codeforces.com/contest/702/submission/167044168",
+    "tags": [
+      "binary search",
+      "implementation",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Aug/05/2022 04:26"
+  },
   "CF167050227": {
     "contest_id": 279,
     "language": "GNU C++20 (64)",
