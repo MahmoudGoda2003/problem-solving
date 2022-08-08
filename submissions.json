@@ -478,6 +478,24 @@
     ],
     "timestamp": "Jul/29/2022 03:59"
   },
+  "CF167564582": {
+    "contest_id": 1301,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1301\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Motarack's Birthday",
+    "problem_url": "https://codeforces.com/contest/1301/problem/B",
+    "submission_id": "CF167564582",
+    "submission_url": "https://codeforces.com/contest/1301/submission/167564582",
+    "tags": [
+      "binary search",
+      "greedy",
+      "ternary search",
+      "*1500"
+    ],
+    "timestamp": "Aug/09/2022 00:21"
+  },
   "CF167573346": {
     "contest_id": 114,
     "language": "GNU C++20 (64)",
