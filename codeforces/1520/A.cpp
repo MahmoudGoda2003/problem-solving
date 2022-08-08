@@ -1,120 +1,45 @@
+/******************************************************************************
+ 
+Welcome to GDB Online.
+GDB online is an online compiler and debugger tool for C, C++, Python, Java, PHP, Ruby, Perl,
+C#, OCaml, VB, Swift, Pascal, Fortran, Haskell, Objective-C, Assembly, HTML, CSS, JS, SQLite, Prolog.
+Code, Compile, Run and Debug online from anywhere in world.
+ 
+*******************************************************************************/
 #include <iostream>
-#include<bits/stdc++.h>
-using namespace std;
-
-#define ll long long
-#define double long double
-#define M_PI 3.14159265358979323846264
-
-set <long long> SieveOfEratosthenes()
-{
-    const int n = 1e6;
-    bool prime[n + 1];
-    memset(prime, true, sizeof(prime));
-
-    for (int p = 2; p * p <= n; p++) {
-        if (prime[p] == true) {
-            for (int i = p * p; i <= n; i += p)
-                prime[i] = false;
-        }
-    }
-    set<long long> res;
-    for (int i = 2; i < 1e6+1; i++)
-    {
-        if (prime[i])
-            res.insert((long long)i * i);
-    }
-    return res;
-}
-double calculateDistance(long long x1, long long y1, long long x2, long long y2) {
-    return sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
-}
-int mod(int a, int b) {
-    int result = a % b;
-    if (result < 0) {
-        result += b;
-    }
-    return result;
-}
-double calculateTriangleArea(double angleA, double angleB, double sideLength) {
-    // Convert the angles from degrees to radians
-    double angleARad = (angleA * M_PI) / 180.0;
-    double angleBRad = (angleB * M_PI) / 180.0;
-
-    // Calculate the angle C
-    double angleC = 180.0 - angleA - angleB;
-
-    // Convert the angle C from degrees to radians
-    double angleCRad = (angleC * M_PI) / 180.0;
-
-    double l = (sideLength * sin(angleARad))/sin(angleCRad);
-
-    // Calculate the area of the triangle
-    double area = 0.5 * l * sideLength * sin(angleBRad);
-
-    return area;
-}
-
-enum class State { Unvisited, Visiting, Visited };
-
-bool hasCycleDFS(int node, const vector<vector<int>>& graph, vector<State>& state) {
-    state[node] = State::Visiting;
-
-    for (int neighbor : graph[node]) {
-        if (state[neighbor] == State::Unvisited) {
-            if (hasCycleDFS(neighbor, graph, state)) {
-                return true;
-            }
-        } else if (state[neighbor] == State::Visiting) {
-            return true;
-        }
-    }
-
-    state[node] = State::Visited;
-    return false;
-}
-
-bool hasCycle(const vector<vector<int>>& graph) {
-    int n = graph.size();
-    vector<State> state(n, State::Unvisited);
-
-    for (int i = 0; i < n; ++i) {
-        if (state[i] == State::Unvisited && hasCycleDFS(i, graph, state)) {
-            return true;
-        }
-    }
-
-    return false;
-}
-
-
-void solve() {
-    int n;
-    cin>>n;
-    string str;
-    cin>>str;
-    map <char, bool> mp;
-    mp[str[0]] = true;
-    for (int i = 1; i < n; ++i) {
-        if(mp[str[i]]){
-            if(str[i]!=str[i-1]){
-                cout<<"NO"<<endl;
-                return;
-            }
-        }
-        mp[str[i]] = true;
-    }
-    cout<<"Yes"<<endl;
-}
-
-
-
-
-int main() {
-    int t=1;
-    cin>>t;
-    while(t-->0){
-        solve();
-    }
+#include<map>
+#include<algorithm>
+#include<cstring>
+#include<cmath>
+ 
+using namespace std;                                          
+ 
+int main(){
+   int n;
+   cin>>n;
+   for(int i=0;i<n;i++){
+       int m;
+       cin>>m;pair <char,int>arr[m] ;
+       for(int j=0;j<m;j++){
+           char x;
+           cin>>x;
+           arr[j]=make_pair(x,j);
+       }
+   
+   sort(arr,arr+m);bool flag=true;
+   for(int j=0;j<m-1;j++){
+       if(arr[j].first==arr[j+1].first){
+           if(arr[j+1].second-arr[j].second!=1){
+               cout<<"NO"<<endl;flag=false;break;
+           }
+       }
+   }
+   if(flag){
+       cout<<"YES"<<endl;
+   }
+   
+   }
+   
     return 0;
 }
+
