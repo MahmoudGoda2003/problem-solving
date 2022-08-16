@@ -478,6 +478,23 @@
     ],
     "timestamp": "Jul/29/2022 03:59"
   },
+  "CF168564883": {
+    "contest_id": 1719,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1719\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Mathematical Circus",
+    "problem_url": "https://codeforces.com/contest/1719/problem/B",
+    "submission_id": "CF168564883",
+    "submission_url": "https://codeforces.com/contest/1719/submission/168564883",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/16/2022 18:33"
+  },
   "CF168613523": {
     "contest_id": 550,
     "language": "GNU C++20 (64)",
