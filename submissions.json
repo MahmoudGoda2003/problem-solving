@@ -478,6 +478,24 @@
     ],
     "timestamp": "Jul/29/2022 03:59"
   },
+  "CF169155357": {
+    "contest_id": 1715,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1715\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Beautiful Array",
+    "problem_url": "https://codeforces.com/contest/1715/problem/B",
+    "submission_id": "CF169155357",
+    "submission_url": "https://codeforces.com/contest/1715/submission/169155357",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Aug/20/2022 19:44"
+  },
   "CF169181097": {
     "contest_id": 451,
     "language": "GNU C++20 (64)",
