@@ -478,6 +478,24 @@
     ],
     "timestamp": "Jul/29/2022 03:59"
   },
+  "CF169280367": {
+    "contest_id": 580,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\580\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Kefa and First Steps",
+    "problem_url": "https://codeforces.com/contest/580/problem/A",
+    "submission_id": "CF169280367",
+    "submission_url": "https://codeforces.com/contest/580/submission/169280367",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Aug/22/2022 00:44"
+  },
   "CF169280777": {
     "contest_id": 119,
     "language": "GNU C++20 (64)",
