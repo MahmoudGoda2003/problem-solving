@@ -12,21 +12,11 @@ int main() {
 	int t;
 	cin>>t;
 	while(t--){
-		int n;cin>>n;
-		int counter=0;
-		for(int i=0;i<2*n;i++){
-		    int x;
-		    cin>>x;
-		    if(x%2==1){
-		        counter++;
-		    }
-		    
-		}
-		if(counter==n){
-		    cout<<"YES"<<endl;
-		}else{
-		    cout<<"NO"<<endl;
-		}
+		int n,cnt[2]={0};
+		cin>>n;
+		for(int i=1,x;i<=n*2;i++)cin>>x,cnt[x%2]++;
+		if(cnt[0]==n)puts("Yes");
+		else puts("No");
 	}
 	return 0;
 }
