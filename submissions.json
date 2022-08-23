@@ -478,6 +478,22 @@
     ],
     "timestamp": "Jul/29/2022 03:59"
   },
+  "CF169382932": {
+    "contest_id": 208,
+    "language": "Java 17",
+    "path": "codeforces\\208\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Dubstep",
+    "problem_url": "https://codeforces.com/contest/208/problem/A",
+    "submission_id": "CF169382932",
+    "submission_url": "https://codeforces.com/contest/208/submission/169382932",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Aug/23/2022 04:17"
+  },
   "CF169383422": {
     "contest_id": 158,
     "language": "GNU C++20 (64)",
