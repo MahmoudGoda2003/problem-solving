@@ -1,4 +1,20 @@
 {
+  "CF169555592": {
+    "contest_id": 337,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\337\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Puzzles",
+    "problem_url": "https://codeforces.com/contest/337/problem/A",
+    "submission_id": "CF169555592",
+    "submission_url": "https://codeforces.com/contest/337/submission/169555592",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Aug/24/2022 23:50"
+  },
   "CF169558180": {
     "contest_id": 1296,
     "language": "GNU C++20 (64)",
