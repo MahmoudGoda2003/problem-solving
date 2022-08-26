@@ -1,4 +1,21 @@
 {
+  "CF169744543": {
+    "contest_id": 1348,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1348\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Phoenix and Balance",
+    "problem_url": "https://codeforces.com/contest/1348/problem/A",
+    "submission_id": "CF169744543",
+    "submission_url": "https://codeforces.com/contest/1348/submission/169744543",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Aug/27/2022 00:27"
+  },
   "CF169745964": {
     "contest_id": 492,
     "language": "GNU C++20 (64)",
