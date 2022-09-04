@@ -1,4 +1,22 @@
 {
+  "CF170893890": {
+    "contest_id": 1725,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1725\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Garage",
+    "problem_url": "https://codeforces.com/contest/1725/problem/G",
+    "submission_id": "CF170893890",
+    "submission_url": "https://codeforces.com/contest/1725/submission/170893890",
+    "tags": [
+      "binary search",
+      "geometry",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Sep/05/2022 00:08"
+  },
   "CF175812301": {
     "contest_id": 339,
     "language": "GNU C++20 (64)",
