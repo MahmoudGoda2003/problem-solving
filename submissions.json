@@ -949,6 +949,22 @@
     ],
     "timestamp": "Oct/31/2022 20:30"
   },
+  "CF193934826": {
+    "contest_id": 41,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\41\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Martian Dollar",
+    "problem_url": "https://codeforces.com/contest/41/problem/B",
+    "submission_id": "CF193934826",
+    "submission_url": "https://codeforces.com/contest/41/submission/193934826",
+    "tags": [
+      "brute force",
+      "*1400"
+    ],
+    "timestamp": "Feb/16/2023 23:40"
+  },
   "CF194016684": {
     "contest_id": 1569,
     "language": "GNU C++20 (64)",
