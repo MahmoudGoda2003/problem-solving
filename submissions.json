@@ -949,6 +949,22 @@
     ],
     "timestamp": "Oct/31/2022 20:30"
   },
+  "CF194020151": {
+    "contest_id": 197,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\197\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Limit",
+    "problem_url": "https://codeforces.com/contest/197/problem/B",
+    "submission_id": "CF194020151",
+    "submission_url": "https://codeforces.com/contest/197/submission/194020151",
+    "tags": [
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Feb/17/2023 18:59"
+  },
   "CF194362898": {
     "contest_id": 384,
     "language": "GNU C++20 (64)",
