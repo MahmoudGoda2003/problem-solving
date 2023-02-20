@@ -30,8 +30,8 @@ int main() {
     cout<<ceil(pow(n,2)/2)<<endl;
     for (int i = 0; i < n; ++i) {
         for (int j = 0; j < n; ++j) {
-            if(!(i%2)){
-                if(!(j%2)){
+            if(i%2==0){
+                if(j%2==0){
                     cout<<"C";
                 }else{
                     cout<<".";

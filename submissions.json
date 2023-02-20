@@ -949,6 +949,22 @@
     ],
     "timestamp": "Oct/31/2022 20:30"
   },
+  "CF194362898": {
+    "contest_id": 384,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\384\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Coder",
+    "problem_url": "https://codeforces.com/contest/384/problem/A",
+    "submission_id": "CF194362898",
+    "submission_url": "https://codeforces.com/contest/384/submission/194362898",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/20/2023 17:31"
+  },
   "CF194364403": {
     "contest_id": 384,
     "language": "GNU C++20 (64)",
