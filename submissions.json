@@ -1,4 +1,22 @@
 {
+  "CF199416615": {
+    "contest_id": 1809,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1809\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Points on Plane",
+    "problem_url": "https://codeforces.com/contest/1809/problem/B",
+    "submission_id": "CF199416615",
+    "submission_url": "https://codeforces.com/contest/1809/submission/199416615",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Mar/27/2023 15:49"
+  },
   "CF199748328": {
     "contest_id": 1742,
     "language": "GNU C++20 (64)",
