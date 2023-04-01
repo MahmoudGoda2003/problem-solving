@@ -1,4 +1,23 @@
 {
+  "CF200269386": {
+    "contest_id": 1812,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1812\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Was it Rated?",
+    "problem_url": "https://codeforces.com/contest/1812/problem/B",
+    "submission_id": "CF200269386",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200269386",
+    "tags": [
+      "*special problem",
+      "*special problem",
+      "*special problem",
+      "brute force",
+      "implementation"
+    ],
+    "timestamp": "Apr/01/2023 18:15"
+  },
   "CF200270232": {
     "contest_id": 1812,
     "language": "GNU C++20 (64)",
