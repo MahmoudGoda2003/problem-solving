@@ -1,4 +1,23 @@
 {
+  "CF200280842": {
+    "contest_id": 1812,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1812\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Not a Geometry Problem",
+    "problem_url": "https://codeforces.com/contest/1812/problem/E",
+    "submission_id": "CF200280842",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200280842",
+    "tags": [
+      "*special problem",
+      "*special problem",
+      "constructive algorithms",
+      "geometry",
+      "math"
+    ],
+    "timestamp": "Apr/01/2023 18:29"
+  },
   "CF200361309": {
     "contest_id": 1812,
     "language": "GNU C++20 (64)",
