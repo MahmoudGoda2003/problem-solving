@@ -1,4 +1,20 @@
 {
+  "CF200361309": {
+    "contest_id": 1812,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1812\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Factorization",
+    "problem_url": "https://codeforces.com/contest/1812/problem/F",
+    "submission_id": "CF200361309",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200361309",
+    "tags": [
+      "*special problem",
+      "number theory"
+    ],
+    "timestamp": "Apr/02/2023 12:23"
+  },
   "CF200632428": {
     "contest_id": 1812,
     "language": "GNU C++20 (64)",
