@@ -1,4 +1,19 @@
 {
+  "CF200632428": {
+    "contest_id": 1812,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1812\\I.cpp",
+    "platform": "Codeforces",
+    "problem_index": "I",
+    "problem_name": "Mountain Climber",
+    "problem_url": "https://codeforces.com/contest/1812/problem/I",
+    "submission_id": "CF200632428",
+    "submission_url": "https://codeforces.com/contest/1812/submission/200632428",
+    "tags": [
+      "*special problem"
+    ],
+    "timestamp": "Apr/04/2023 05:19"
+  },
   "CF200827687": {
     "contest_id": 1811,
     "language": "GNU C++20 (64)",
