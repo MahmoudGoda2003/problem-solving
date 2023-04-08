@@ -1,4 +1,21 @@
 {
+  "CF201305416": {
+    "contest_id": 1797,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1797\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Li Hua and Pattern",
+    "problem_url": "https://codeforces.com/contest/1797/problem/B",
+    "submission_id": "CF201305416",
+    "submission_url": "https://codeforces.com/contest/1797/submission/201305416",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Apr/08/2023 16:53"
+  },
   "CF201599809": {
     "contest_id": 1816,
     "language": "GNU C++20 (64)",
