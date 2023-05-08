@@ -1,4 +1,20 @@
 {
+  "CF205156433": {
+    "contest_id": 1304,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1304\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Two Rabbits",
+    "problem_url": "https://codeforces.com/contest/1304/problem/A",
+    "submission_id": "CF205156433",
+    "submission_url": "https://codeforces.com/contest/1304/submission/205156433",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/08/2023 21:43"
+  },
   "CF205160870": {
     "contest_id": 1304,
     "language": "GNU C++20 (64)",
