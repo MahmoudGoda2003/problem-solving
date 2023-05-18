@@ -1,4 +1,21 @@
 {
+  "CF206364534": {
+    "contest_id": 1828,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1828\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Permutation Swap",
+    "problem_url": "https://codeforces.com/contest/1828/problem/B",
+    "submission_id": "CF206364534",
+    "submission_url": "https://codeforces.com/contest/1828/submission/206364534",
+    "tags": [
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "May/18/2023 19:23"
+  },
   "CF206366021": {
     "contest_id": 572,
     "language": "GNU C++20 (64)",
