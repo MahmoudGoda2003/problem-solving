@@ -1,4 +1,22 @@
 {
+  "CF206391480": {
+    "contest_id": 485,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\485\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Factory",
+    "problem_url": "https://codeforces.com/contest/485/problem/A",
+    "submission_id": "CF206391480",
+    "submission_url": "https://codeforces.com/contest/485/submission/206391480",
+    "tags": [
+      "implementation",
+      "math",
+      "matrices",
+      "*1400"
+    ],
+    "timestamp": "May/19/2023 02:21"
+  },
   "CF206391876": {
     "contest_id": 507,
     "language": "GNU C++20 (64)",
