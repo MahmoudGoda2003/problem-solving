@@ -1,4 +1,20 @@
 {
+  "CF206366021": {
+    "contest_id": 572,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\572\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Arrays",
+    "problem_url": "https://codeforces.com/contest/572/problem/A",
+    "submission_id": "CF206366021",
+    "submission_url": "https://codeforces.com/contest/572/submission/206366021",
+    "tags": [
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "May/18/2023 19:39"
+  },
   "CF206391429": {
     "contest_id": 514,
     "language": "GNU C++20 (64)",
