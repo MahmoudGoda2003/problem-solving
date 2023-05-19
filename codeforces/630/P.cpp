@@ -58,8 +58,8 @@ void solve() {
     ll n, r;
     cin >> n >> r;
     double CA = 360.0/n;
-    double firstA = CA/4;
-    double secondA = CA/2;
+    double firstA = CA/4.0;
+    double secondA = CA/2.0;
     double area = calculateTriangleArea(firstA,secondA,r)*2;
     cout<<setprecision(16)<<area*n<<endl;
 }
