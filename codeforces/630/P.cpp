@@ -3,7 +3,7 @@
 using namespace std;
 
 #define ll long long
-#define double long double
+#define ld long double
 #define PI 3.14159265358979323846264
 
 set <long long> SieveOfEratosthenes()
@@ -36,31 +36,31 @@ int mod(int a, int b) {
     }
     return result;
 }
-double calculateTriangleArea(double angleA, double angleB, double sideLength) {
+ld calculateTriangleArea(ld angleA, ld angleB, ld sideLength) {
     // Convert the angles from degrees to radians
-    double angleARad = (angleA * PI) / 180.0;
-    double angleBRad = (angleB * PI) / 180.0;
+    ld angleARad = (angleA * PI) / 180.0;
+    ld angleBRad = (angleB * PI) / 180.0;
 
     // Calculate the angle C
-    double angleC = 180.0 - angleA - angleB;
+    ld angleC = 180.0 - angleA - angleB;
 
     // Convert the angle C from degrees to radians
-    double angleCRad = (angleC * PI) / 180.0;
+    ld angleCRad = (angleC * PI) / 180.0;
 
-    double l = (sideLength * sin(angleARad))/sin(angleCRad);
+    ld l = (sideLength * sin(angleARad))/sin(angleCRad);
 
     // Calculate the area of the triangle
-    double area = 0.5 * l * sideLength * sin(angleBRad);
+    ld area = 0.5 * l * sideLength * sin(angleBRad);
 
     return area;
 }
 void solve() {
     ll n, r;
     cin >> n >> r;
-    double CA = 360.0/n;
-    double firstA = CA/4.0;
-    double secondA = CA/2.0;
-    double area = calculateTriangleArea(firstA,secondA,r)*2;
+    ld CA = 360.0/n;
+    ld firstA = CA/4.0;
+    ld secondA = CA/2.0;
+    ld area = calculateTriangleArea(firstA,secondA,r)*2;
     cout<<setprecision(16)<<area*n<<endl;
 }
 
