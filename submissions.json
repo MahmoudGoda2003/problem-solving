@@ -1,4 +1,21 @@
 {
+  "CF206397149": {
+    "contest_id": 630,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\630\\Q.cpp",
+    "platform": "Codeforces",
+    "problem_index": "Q",
+    "problem_name": "Pyramids",
+    "problem_url": "https://codeforces.com/contest/630/problem/Q",
+    "submission_id": "CF206397149",
+    "submission_url": "https://codeforces.com/contest/630/submission/206397149",
+    "tags": [
+      "geometry",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "May/19/2023 05:33"
+  },
   "CF207513977": {
     "contest_id": 1837,
     "language": "GNU C++20 (64)",
