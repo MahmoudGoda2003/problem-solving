@@ -55,9 +55,9 @@ double calculateTriangleArea(double angleA, double angleB, double sideLength) {
     return area;
 }
 void solve() {
-    double n, r;
+    ll n, r;
     cin >> n >> r;
-    double CA = 360/n;
+    double CA = 360.0/n;
     double firstA = CA/4;
     double secondA = CA/2;
     double area = calculateTriangleArea(firstA,secondA,r)*2;

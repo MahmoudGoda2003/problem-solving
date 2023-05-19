@@ -1,4 +1,20 @@
 {
+  "CF206394935": {
+    "contest_id": 630,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\630\\P.cpp",
+    "platform": "Codeforces",
+    "problem_index": "P",
+    "problem_name": "Area of a Star",
+    "problem_url": "https://codeforces.com/contest/630/problem/P",
+    "submission_id": "CF206394935",
+    "submission_url": "https://codeforces.com/contest/630/submission/206394935",
+    "tags": [
+      "geometry",
+      "*2100"
+    ],
+    "timestamp": "May/19/2023 04:33"
+  },
   "CF206395129": {
     "contest_id": 630,
     "language": "GNU C++20 (64)",
