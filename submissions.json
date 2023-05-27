@@ -1,4 +1,21 @@
 {
+  "CF207513977": {
+    "contest_id": 1837,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1837\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Bracket Coloring",
+    "problem_url": "https://codeforces.com/contest/1837/problem/D",
+    "submission_id": "CF207513977",
+    "submission_url": "https://codeforces.com/contest/1837/submission/207513977",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1400"
+    ],
+    "timestamp": "May/28/2023 00:11"
+  },
   "CF207514471": {
     "contest_id": 1837,
     "language": "GNU C++20 (64)",
