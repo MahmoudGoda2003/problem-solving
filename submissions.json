@@ -1,4 +1,20 @@
 {
+  "CF207523529": {
+    "contest_id": 1618,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1618\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Paint the Array",
+    "problem_url": "https://codeforces.com/contest/1618/problem/C",
+    "submission_id": "CF207523529",
+    "submission_url": "https://codeforces.com/contest/1618/submission/207523529",
+    "tags": [
+      "math",
+      "*1100"
+    ],
+    "timestamp": "May/28/2023 05:52"
+  },
   "CF207523885": {
     "contest_id": 1096,
     "language": "GNU C++20 (64)",
