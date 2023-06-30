@@ -133,12 +133,12 @@ A repository to keep track of problem solving practice, containing solutions fro
 108 | [B - Quick Sort](https://codeforces.com/contest/1768/problem/B) | [GNU C++20 (64)](./codeforces/1768/B.cpp) | `greedy` `math` `*900` | Jul/01/2023 02:54 | 
 107 | [C - Dominant Character](https://codeforces.com/contest/1605/problem/C) | [GNU C++20 (64)](./codeforces/1605/C.cpp) | `brute force` `greedy` `implementation` `strings` `*1400` | Jun/30/2023 21:09 | 
 106 | [E - Arranging The Sheep](https://codeforces.com/contest/1520/problem/E) | [GNU C++20 (64)](./codeforces/1520/E.cpp) | `greedy` `math` `*1400` | Jun/30/2023 19:52 | 
-105 | [C - Make It Good](https://codeforces.com/contest/1385/problem/C) | [GNU C++20 (64)](./codeforces/1385/C.cpp) | `greedy` `*1200` | Jun/22/2023 15:45 | 
-104 | [B - Restore the Permutation by Merger](https://codeforces.com/contest/1385/problem/B) | [GNU C++20 (64)](./codeforces/1385/B.cpp) | `greedy` `*800` | Jun/22/2023 15:36 | 
-103 | [A - Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | [GNU C++20 (64)](./codeforces/1385/A.cpp) | `math` `*800` | Jun/22/2023 15:18 | 
-102 | [A - Construct a Rectangle](https://codeforces.com/contest/1622/problem/A) | [GNU C++20 (64)](./codeforces/1622/A.cpp) | `geometry` `math` `*800` | Jun/12/2023 18:40 | 
-101 | [A - FashionabLee](https://codeforces.com/contest/1369/problem/A) | [GNU C++20 (64)](./codeforces/1369/A.cpp) | `geometry` `math` `*800` | Jun/12/2023 18:27 | 
-100 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [GNU C++20 (64)](./codeforces/1520/D.cpp) | `data structures` `hashing` `math` `*1200` | Jun/11/2023 22:35 | 
+105 | [D - Same Differences](https://codeforces.com/contest/1520/problem/D) | [GNU C++20 (64)](./codeforces/1520/D.cpp) | `data structures` `hashing` `math` `*1200` | Jun/30/2023 18:37 | 
+104 | [C - Make It Good](https://codeforces.com/contest/1385/problem/C) | [GNU C++20 (64)](./codeforces/1385/C.cpp) | `greedy` `*1200` | Jun/22/2023 15:45 | 
+103 | [B - Restore the Permutation by Merger](https://codeforces.com/contest/1385/problem/B) | [GNU C++20 (64)](./codeforces/1385/B.cpp) | `greedy` `*800` | Jun/22/2023 15:36 | 
+102 | [A - Three Pairwise Maximums](https://codeforces.com/contest/1385/problem/A) | [GNU C++20 (64)](./codeforces/1385/A.cpp) | `math` `*800` | Jun/22/2023 15:18 | 
+101 | [A - Construct a Rectangle](https://codeforces.com/contest/1622/problem/A) | [GNU C++20 (64)](./codeforces/1622/A.cpp) | `geometry` `math` `*800` | Jun/12/2023 18:40 | 
+100 | [A - FashionabLee](https://codeforces.com/contest/1369/problem/A) | [GNU C++20 (64)](./codeforces/1369/A.cpp) | `geometry` `math` `*800` | Jun/12/2023 18:27 | 
 99 | [A - Candies](https://codeforces.com/contest/1343/problem/A) | [GNU C++20 (64)](./codeforces/1343/A.cpp) | `brute force` `math` `*900` | Jun/08/2023 17:19 | 
 98 | [C - Drazil and Factorial](https://codeforces.com/contest/515/problem/C) | [GNU C++20 (64)](./codeforces/515/C.cpp) | `greedy` `math` `sortings` `*1400` | Jun/05/2023 15:49 | 
 97 | [F - Selection of Personnel](https://codeforces.com/contest/630/problem/F) | [GNU C++20 (64)](./codeforces/630/F.cpp) | `combinatorics` `math` `*1300` | Jun/01/2023 20:21 | 
