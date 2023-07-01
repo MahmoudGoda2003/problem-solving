@@ -91,7 +91,7 @@ bool hasCycle(const vector<vector<int>>& graph) {
 void solve() {
     int n ;
     cin>>n;
-    unordered_map<ll, ll> mp ;
+    map<ll, ll> mp ;
     for (int i = 0; i < n; ++i) {
         ll x ;
         cin>>x;
