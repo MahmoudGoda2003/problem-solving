@@ -106,16 +106,16 @@ long long power(long long base, long long exponent) {
 void solve() {
   int n ;
   cin>>n;
-  int x=0,y=0;
-
+  vector<int > vec(n);
     for (int i = 0; i < n; ++i) {
-        y=x;
-        cin>>x;
+        cin>>vec[i];
         if(i>0){
-            cout<<x+y<<" ";
+            vec[i-1]+=vec[i];
         }
     }
-    cout<<x;
+    for (int i = 0; i < n; ++i) {
+        cout<<vec[i]<<" ";
+    }
 }
 
 

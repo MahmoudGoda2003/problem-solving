@@ -1851,6 +1851,23 @@
     ],
     "timestamp": "Jun/22/2023 15:45"
   },
+  "CF212240325": {
+    "contest_id": 712,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\712\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Memory and Crow",
+    "problem_url": "https://codeforces.com/contest/712/problem/A",
+    "submission_id": "CF212240325",
+    "submission_url": "https://codeforces.com/contest/712/submission/212240325",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/05/2023 17:29"
+  },
   "CF212240707": {
     "contest_id": 712,
     "language": "GNU C++20 (64)",
