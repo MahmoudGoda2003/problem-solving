@@ -1,146 +1,81 @@
 #include <iostream>
-#include<bits/stdc++.h>
+#include <vector>
+#include <algorithm>
+#include <string>
+#include <ctype.h>
+#include <queue>
+#include <cstring>
+#include <set>
+#include <bitset>
+#include <map>
+#include <chrono>
+#include <random>
+#include <unordered_map>
+#include <stdio.h>
+
 using namespace std;
 
-#define ll long long
-#define double long double
-#define MOD 1000000007
-#define M_PI 3.14159265358979323846264
+typedef long long ll;
+typedef long double ld;
+typedef std::vector<int> vi;
+typedef std::vector<bool> vb;
+typedef std::vector<string> vs;
+typedef std::vector<double> vd;
+typedef std::vector<long long> vll;
+typedef std::vector<std::vector<int> > vvi;
+typedef vector<vll> vvll;
+typedef std::vector<std::pair<int, int> > vpi;
+typedef vector<vpi> vvpi;
+typedef std::pair<int, int> pi;
+typedef std::pair<ll, ll> pll;
+typedef std::vector<pll> vpll;
 
-set <long long> SieveOfEratosthenes()
+const long long mod = 1000000007;
+ll gcd (ll a, ll b) {return b==0 ? a : gcd(b, a%b);}
+const unsigned gen_seed = std::chrono::system_clock::now().time_since_epoch().count();
+std::mt19937_64 gen(gen_seed);
+
+#define all(c) (c).begin(),(c).end()
+#define srt(c) sort(all(c))
+#define srtrev(c) sort(all(c)); reverse(all(c))
+#define forn(i, a, b) for(int i = a; i < b; i++)
+#define read(x) scanf("%d", &x)
+#define readv(x, n) vi x(n); forn(i,0,n) scanf("%d", &x[i])
+
+#define pb push_back
+#define mp make_pair
+
+int main()
 {
-    const int n = 1e6;
-    bool prime[n + 1];
-    memset(prime, true, sizeof(prime));
-
-    for (int p = 2; p * p <= n; p++) {
-        if (prime[p] == true) {
-            for (int i = p * p; i <= n; i += p)
-                prime[i] = false;
+#ifdef LOCAL
+    freopen("input.txt", "rt", stdin);
+    freopen("output.txt", "wt", stdout);
+#endif
+    vvi win;
+    win.pb({0,1,2});
+    win.pb({3,4,5});
+    win.pb({6,7,8});
+    win.pb({0,3,6});
+    win.pb({1,4,7});
+    win.pb({2,5,8});
+    win.pb({0,4,8});
+    win.pb({2,4,6});
+    int ta;
+    cin>>ta;
+    forn(ifa,0,ta) {
+        string s;
+        forn(it,0,3) {
+            string t;
+            cin>>t;
+            s+=t;
         }
-    }
-    set<long long> res;
-    for (int i = 2; i < 1e6+1; i++)
-    {
-        if (prime[i])
-            res.insert((long long)i * i);
-    }
-    return res;
-}
-double calculateDistance(long long x1, long long y1, long long x2, long long y2) {
-    return sqrt((x1 - x2) * (x1 - x2) + (y1 - y2) * (y1 - y2));
-}
-int mod(int a, int b) {
-    int result = a % b;
-    if (result < 0) {
-        result += b;
-    }
-    return result;
-}
-double calculateTriangleArea(double angleA, double angleB, double sideLength) {
-    // Convert the angles from degrees to radians
-    double angleARad = (angleA * M_PI) / 180.0;
-    double angleBRad = (angleB * M_PI) / 180.0;
-
-    // Calculate the angle C
-    double angleC = 180.0 - angleA - angleB;
-
-    // Convert the angle C from degrees to radians
-    double angleCRad = (angleC * M_PI) / 180.0;
-
-    double l = (sideLength * sin(angleARad))/sin(angleCRad);
-
-    // Calculate the area of the triangle
-    double area = 0.5 * l * sideLength * sin(angleBRad);
-
-    return area;
-}
-
-enum class State { Unvisited, Visiting, Visited };
-
-bool hasCycleDFS(int node, const vector<vector<int>>& graph, vector<State>& state) {
-    state[node] = State::Visiting;
-
-    for (int neighbor : graph[node]) {
-        if (state[neighbor] == State::Unvisited) {
-            if (hasCycleDFS(neighbor, graph, state)) {
-                return true;
-            }
-        } else if (state[neighbor] == State::Visiting) {
-            return true;
+        string ans = "DRAW";
+        
+        for(auto x : win) {
+            if(s[x[0]] == s[x[1]] && s[x[0]] == s[x[2]] && s[x[0]] != '.') ans = string(1, s[x[0]]);
         }
+        cout<<ans<<'\n';
     }
-
-    state[node] = State::Visited;
-    return false;
-}
-
-bool hasCycle(const vector<vector<int>>& graph) {
-    int n = graph.size();
-    vector<State> state(n, State::Unvisited);
-
-    for (int i = 0; i < n; ++i) {
-        if (state[i] == State::Unvisited && hasCycleDFS(i, graph, state)) {
-            return true;
-        }
-    }
-
-    return false;
-}
-long long power(long long base, long long exponent) {
-    long long result = 1;
-    base %= MOD;
-
-    while (exponent > 0) {
-        if (exponent % 2 == 1) {
-            result = (result * base) % MOD;
-        }
-
-        base = (base * base) % MOD;
-        exponent /= 2;
-    }
-
-    return result;
-}
-
-
-
-void solve() {
-    vector<vector<int>> vec = {
-    {0, 1, 2},
-    {3, 4, 5},
-    {6, 7, 8},
-    {0, 3, 6},
-    {1, 4, 7},
-    {2, 5, 8},
-    {0, 4, 8},
-    {2, 4, 6},
-    };
-    vector<char> game(9);
-    for (int i = 0; i < 9; ++i) {
-            cin>>game[i];
-    }
-    for (int i = 0; i < 3; ++i) {
-        for (int j = 0; j < vec.size(); ++j) {
-            vector<int> win = vec[j];
-            if(game[win[0]]!='.'&&game[win[0]]==game[win[1]]&&game[win[1]]==game[win[2]] ){
-                cout<<game[win[0]]<<endl;
-                return;
-            }
-        }
-    }
-    cout<<"DRAW"<<endl;
-
-}
-
-
-
-
-int main() {
-    int t=1;
-    cin>>t;
-    while(t-->0){
-        solve();
-    }
-    return 0;
+    
+    
 }
