@@ -1851,6 +1851,24 @@
     ],
     "timestamp": "Jun/22/2023 15:45"
   },
+  "CF213430587": {
+    "contest_id": 746,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\746\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Tram",
+    "problem_url": "https://codeforces.com/contest/746/problem/C",
+    "submission_id": "CF213430587",
+    "submission_url": "https://codeforces.com/contest/746/submission/213430587",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Jul/12/2023 02:33"
+  },
   "CF213434240": {
     "contest_id": 746,
     "language": "GNU C++20 (64)",
