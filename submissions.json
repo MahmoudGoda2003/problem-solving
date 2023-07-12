@@ -1851,6 +1851,24 @@
     ],
     "timestamp": "Jun/22/2023 15:45"
   },
+  "CF213434240": {
+    "contest_id": 746,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\746\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Green and Black Tea",
+    "problem_url": "https://codeforces.com/contest/746/problem/D",
+    "submission_id": "CF213434240",
+    "submission_url": "https://codeforces.com/contest/746/submission/213434240",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Jul/12/2023 03:42"
+  },
   "CF213440852": {
     "contest_id": 1512,
     "language": "GNU C++20 (64)",
