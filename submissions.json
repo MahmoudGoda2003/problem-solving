@@ -1851,6 +1851,22 @@
     ],
     "timestamp": "Jun/22/2023 15:45"
   },
+  "CF213575401": {
+    "contest_id": 1725,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1725\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Accumulation of Dominoes",
+    "problem_url": "https://codeforces.com/contest/1725/problem/A",
+    "submission_id": "CF213575401",
+    "submission_url": "https://codeforces.com/contest/1725/submission/213575401",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "Jul/13/2023 03:21"
+  },
   "CF213576571": {
     "contest_id": 1725,
     "language": "GNU C++20 (64)",
