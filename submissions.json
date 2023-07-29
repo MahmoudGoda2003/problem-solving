@@ -1,4 +1,20 @@
 {
+  "CF216373735": {
+    "contest_id": 1714,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1714\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Minimum  Varied Number",
+    "problem_url": "https://codeforces.com/contest/1714/problem/C",
+    "submission_id": "CF216373735",
+    "submission_url": "https://codeforces.com/contest/1714/submission/216373735",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Jul/30/2023 01:16"
+  },
   "CF216474270": {
     "contest_id": 1843,
     "language": "GNU C++20 (64)",
