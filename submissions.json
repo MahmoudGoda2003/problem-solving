@@ -1,4 +1,23 @@
 {
+  "CF216566326": {
+    "contest_id": 1829,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1829\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "The Lakes",
+    "problem_url": "https://codeforces.com/contest/1829/problem/E",
+    "submission_id": "CF216566326",
+    "submission_url": "https://codeforces.com/contest/1829/submission/216566326",
+    "tags": [
+      "dfs and similar",
+      "dsu",
+      "graphs",
+      "implementation",
+      "*1100"
+    ],
+    "timestamp": "Jul/31/2023 14:14"
+  },
   "CF216732013": {
     "contest_id": 1055,
     "language": "GNU C++20 (64)",
