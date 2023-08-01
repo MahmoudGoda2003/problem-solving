@@ -1,4 +1,20 @@
 {
+  "CF216732013": {
+    "contest_id": 1055,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1055\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Metro",
+    "problem_url": "https://codeforces.com/contest/1055/problem/A",
+    "submission_id": "CF216732013",
+    "submission_url": "https://codeforces.com/contest/1055/submission/216732013",
+    "tags": [
+      "graphs",
+      "*900"
+    ],
+    "timestamp": "Aug/01/2023 18:27"
+  },
   "CF216868881": {
     "contest_id": 1521,
     "language": "GNU C++20 (64)",
