@@ -1,4 +1,22 @@
 {
+  "CF219032319": {
+    "contest_id": 1097,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1097\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Petr and a Combination Lock",
+    "problem_url": "https://codeforces.com/contest/1097/problem/B",
+    "submission_id": "CF219032319",
+    "submission_url": "https://codeforces.com/contest/1097/submission/219032319",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "dp",
+      "*1200"
+    ],
+    "timestamp": "Aug/16/2023 03:09"
+  },
   "CF219391519": {
     "contest_id": 1860,
     "language": "GNU C++20 (64)",
