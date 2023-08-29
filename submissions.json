@@ -1,4 +1,21 @@
 {
+  "CF221028721": {
+    "contest_id": 656,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\656\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Scrambled",
+    "problem_url": "https://codeforces.com/contest/656/problem/B",
+    "submission_id": "CF221028721",
+    "submission_url": "https://codeforces.com/contest/656/submission/221028721",
+    "tags": [
+      "*special problem",
+      "implementation",
+      "*1700"
+    ],
+    "timestamp": "Aug/30/2023 02:57"
+  },
   "CF221028868": {
     "contest_id": 656,
     "language": "GNU C++20 (64)",
