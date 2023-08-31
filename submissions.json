@@ -1,4 +1,21 @@
 {
+  "CF221360950": {
+    "contest_id": 1861,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1861\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Two Binary Strings",
+    "problem_url": "https://codeforces.com/contest/1861/problem/B",
+    "submission_id": "CF221360950",
+    "submission_url": "https://codeforces.com/contest/1861/submission/221360950",
+    "tags": [
+      "constructive algorithms",
+      "dp",
+      "greedy"
+    ],
+    "timestamp": "Aug/31/2023 20:02"
+  },
   "CF221673695": {
     "contest_id": 1866,
     "language": "GNU C++20 (64)",
