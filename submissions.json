@@ -1,4 +1,20 @@
 {
+  "CF221359151": {
+    "contest_id": 1861,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1861\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Prime Deletion",
+    "problem_url": "https://codeforces.com/contest/1861/problem/A",
+    "submission_id": "CF221359151",
+    "submission_url": "https://codeforces.com/contest/1861/submission/221359151",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Aug/31/2023 19:51"
+  },
   "CF221360950": {
     "contest_id": 1861,
     "language": "GNU C++20 (64)",
