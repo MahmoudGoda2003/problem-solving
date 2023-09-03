@@ -1,4 +1,21 @@
 {
+  "CF221713016": {
+    "contest_id": 1866,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1866\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Completely Searching for Inversions",
+    "problem_url": "https://codeforces.com/contest/1866/problem/C",
+    "submission_id": "CF221713016",
+    "submission_url": "https://codeforces.com/contest/1866/submission/221713016",
+    "tags": [
+      "dfs and similar",
+      "dp",
+      "graphs"
+    ],
+    "timestamp": "Sep/03/2023 18:27"
+  },
   "CF221989186": {
     "contest_id": 1166,
     "language": "GNU C++20 (64)",
