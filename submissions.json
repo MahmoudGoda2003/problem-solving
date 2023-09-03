@@ -1,4 +1,21 @@
 {
+  "CF221679409": {
+    "contest_id": 1866,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1866\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Battling with Numbers",
+    "problem_url": "https://codeforces.com/contest/1866/problem/B",
+    "submission_id": "CF221679409",
+    "submission_url": "https://codeforces.com/contest/1866/submission/221679409",
+    "tags": [
+      "combinatorics",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Sep/03/2023 15:29"
+  },
   "CF221713016": {
     "contest_id": 1866,
     "language": "GNU C++20 (64)",
