@@ -1,4 +1,21 @@
 {
+  "CF222380313": {
+    "contest_id": 1783,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1783\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Matrix of Differences",
+    "problem_url": "https://codeforces.com/contest/1783/problem/B",
+    "submission_id": "CF222380313",
+    "submission_url": "https://codeforces.com/contest/1783/submission/222380313",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Sep/08/2023 03:32"
+  },
   "CF222381613": {
     "contest_id": 1783,
     "language": "GNU C++20 (64)",
