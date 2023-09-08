@@ -1,4 +1,21 @@
 {
+  "CF222483179": {
+    "contest_id": 1669,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1669\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Triple",
+    "problem_url": "https://codeforces.com/contest/1669/problem/B",
+    "submission_id": "CF222483179",
+    "submission_url": "https://codeforces.com/contest/1669/submission/222483179",
+    "tags": [
+      "implementation",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Sep/08/2023 18:50"
+  },
   "CF222484127": {
     "contest_id": 1669,
     "language": "GNU C++20 (64)",
