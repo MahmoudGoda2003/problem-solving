@@ -164,7 +164,6 @@ void solve() {
             k-=n-vec[i];
         }
     }
-    
     cout<<ans<<endl;
 }
 
