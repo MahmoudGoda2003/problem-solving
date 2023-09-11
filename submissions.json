@@ -1,4 +1,20 @@
 {
+  "CF222848131": {
+    "contest_id": 1692,
+    "language": "GNU C++20 (64)",
+    "path": "codeforces\\1692\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Where's the Bishop?",
+    "problem_url": "https://codeforces.com/contest/1692/problem/C",
+    "submission_id": "CF222848131",
+    "submission_url": "https://codeforces.com/contest/1692/submission/222848131",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Sep/11/2023 06:34"
+  },
   "CF222979440": {
     "contest_id": 1692,
     "language": "GNU C++20 (64)",
