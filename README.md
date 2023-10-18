@@ -1,15 +1,14 @@
 Submissions
 ======================
-> *Auto-generated with ❤ using [Harwest](https://github.com/nileshsah/harwest-tool)*
-
-## Introduction
-
-A repository to keep track of problem solving practice, containing solutions from platforms:
-* Codeforces &nbsp; [![Codeforces](https://run.kaist.ac.kr/badges/codeforces/MahmoudGoda.svg)](https://codeforces.com/profile/MahmoudGoda)
-* AtCoder &nbsp; [![AtCoder](https://run.kaist.ac.kr/badges/atcoder/MahmoudGoda.svg)](https://atcoder.jp/users/MahmoudGoda)
 
 
-## Contents
+*Auto-generated using [Secpar](https://github.com/MostafaGalal1/Secpar)*
+
+
+## Platforms
+* [Codeforces](#codeforces)
+
+## Codeforces<a name="codeforces"></a>
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
